@@ -31,3 +31,4 @@ def japan_korea():
 
 if __name__ == "__main__":
     europe_america()
+    japan_korea()
